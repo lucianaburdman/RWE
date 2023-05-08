@@ -143,8 +143,11 @@ ggplot(simulated_data, aes(x = group, y = healthcare_utilization, fill = group))
 
 ```
 
-FIGURES
+<img src="https://github.com/lucianaburdman/RWE/blob/acd34fa473bdc6b6b3876566432314337a16967f/Fig3.png">
+Figure 3: Quality of Life by Treatment Group
 
+<img src="https://github.com/lucianaburdman/RWE/blob/acd34fa473bdc6b6b3876566432314337a16967f/Fig4.png">
+Figure 4: Healthcare Resource Utilization by Treatment Group
 
 The box plots confirm the results of the density and ridgeline plots and show that the treatment group has a higher quality of life and lower healthcare resource utilization than the control group.
 
