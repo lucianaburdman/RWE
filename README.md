@@ -5,8 +5,6 @@ date: "2023-05-08"
 output: html_document
 ---
 
-HEOR project involving Real-World Evidence (RWE) and simulated data. This project aims to explore the impact of a new drug on patients' quality of life and healthcare resource utilization.
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
