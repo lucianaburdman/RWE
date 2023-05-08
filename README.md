@@ -152,6 +152,10 @@ The box plots confirm the results of the density and ridgeline plots and show th
 ## Conclusion
 The results of this study suggest that the new drug may have a positive impact on patient quality of life and healthcare resource utilization. Moreover, the t-test and box plots provide further evidence that the new drug has a significant impact on patient quality of life and healthcare resource utilization. Real-World Evidence data allowed us to evaluate the efficacy of the drug without conducting a costly and time-consuming randomized controlled trial. This results can inform healthcare policy and practice, and can aid in the decision-making process for drug approval and reimbursement.
 
+# Would you like to see a RWE small project?
+
+Follow this [link](https://github.com/lucianaburdman/hypertension-treatment-three-different-drugs)
+
 # About the author
 
 If you made it this far, thank you for your attention!
