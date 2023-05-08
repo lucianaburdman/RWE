@@ -60,7 +60,8 @@ ggplot(simulated_data, aes(x = quality_of_life, fill = group)) +
   theme_minimal()
 ```
 
-FIGURE
+<img src="https://github.com/lucianaburdman/RWE/blob/f8f4024db3fa8a1e589d59f13b5393c15e7b6633/Fig1.png">
+Figure 1: Quality of Life by Treatment Group.
 
 The density plot shows that the treatment group has a higher quality of life than the control group.
 
@@ -77,7 +78,8 @@ ggplot(simulated_data, aes(x = healthcare_utilization, y = group, fill = group))
 ```
 
 
-FIGURE
+<img src="https://github.com/lucianaburdman/RWE/blob/f8f4024db3fa8a1e589d59f13b5393c15e7b6633/Fig2.png">
+Figure 2: Healthcare Resource Utilization by Treatment Group
 
 The ridgeline plot shows that the treatment group has a lower healthcare resource utilization than the control group.
 
