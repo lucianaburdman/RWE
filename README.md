@@ -84,4 +84,4 @@ Figure 2: Healthcare Resource Utilization by Treatment Group
 The ridgeline plot shows that the treatment group has a lower healthcare resource utilization than the control group.
 
 ## Conclusion
-The results of this study suggest that the new drug may have a positive impact on patient quality of life and healthcare resource utilization. Simulating Real-World Evidence data allowed us to evaluate the efficacy of the drug without conducting a costly and time-consuming randomized controlled trial. These results can inform healthcare policy and practice, and can aid in the decision-making process for drug approval and reimbursement.
+The results of this study suggest that the new drug may have a positive impact on patient quality of life and healthcare resource utilization. Real-World Evidence data allowed us to evaluate the efficacy of the drug without conducting a costly and time-consuming randomized controlled trial. Its results can inform healthcare policy and practice, and can aid in the decision-making process for drug approval and reimbursement.
